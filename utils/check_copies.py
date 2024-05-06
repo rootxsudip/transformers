@@ -23,7 +23,7 @@ a model missing.
 
 Use from the root of the repo with:
 
-```bash
+```bash 
 python utils/check_copies.py
 ```
 
