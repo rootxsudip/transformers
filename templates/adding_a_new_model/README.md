@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# Adding a new model
+# Adding a new model 
 
 This page has been updated in light of the removal of the `add_new_model` script in favor of the more complete 
 `add_new_model_like` script.
